@@ -24,7 +24,7 @@ Pimox, Proxmox's predecessor, enables me to host NAS servers and VPN servers on 
 - <b>debian</b>
 - <b>kali linux</b>
 
-<h2>Demonstration:</h2>
+<h2>NAS:</h2>
 
 
 <p>
@@ -35,7 +35,8 @@ Here we have Loop0, the name of the storage device created for the RaspiNas Cont
  uploading a file inside proxmox then opening it on my windows machine<br/>
  [clip](https://user-images.githubusercontent.com/125524019/225492487-2d52eea5-9cb5-411f-9a83-7b177a60262e.mp4)
 </p>
-
+<h2>Kali Linux</h2>
+One of the amazing benefits of running proxmox, is I can have mulitple Virtual Machines deployed at the same time. 
 
 
 <!--
