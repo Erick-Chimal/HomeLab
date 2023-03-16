@@ -35,7 +35,7 @@ Pimox, Proxmox's predecessor, enables me to host NAS servers and VPN servers on 
  [clip](https://user-images.githubusercontent.com/125524019/225492487-2d52eea5-9cb5-411f-9a83-7b177a60262e.mp4)
 </p>
 <h2>Kali Linux</h2>
-<b>One of the many amazing feautures of running a proxmox server, is, I can have mulitple Virtual Machines runnning at the same time.<br/>
+<b>One of the many amazing features of running a proxmox server, is, I can have mulitple Virtual Machines runnning at the same time.<br/>
 <br/>
 
  ![Kali](https://user-images.githubusercontent.com/125524019/225682969-f10cb78a-c885-4fc8-9f1e-4fb8bd96aa25.PNG)
