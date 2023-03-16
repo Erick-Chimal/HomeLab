@@ -3,51 +3,40 @@
 [YouTube Demonstration]()
 
 <h2>Description</h2>
-Pimox, a powerful predecessor of Proxmox, enables me to host network attached storage systems and VPN servers on containers. These containers are incredibly lightweight , additionally,  i can deploy fully functional virtual machines all on a single Raspberry Pi 4 Model B. With Pimox, I have access to an impressive range of features and benefits that make it possible to create powerful computing systems with minimal hardware requirements. Furthermore, the intuitive user interface makes it easy to set up and manage these networks, making it an ideal solution for businesses of any size.
+Pimox, a powerful predecessor of Proxmox, enables me to host NAS servers and VPN servers on containers. These containers are incredibly lightweight and run on megabits, additionally, I can deploy fully functional virtual machines all on a single Raspberry Pi 4 Model B. With Pimox, I have access to an impressive range of features and benefits that make it possible to create powerful computing systems with minimal hardware requirements. Furthermore, the intuitive user interface makes it easy to set up and manage these networks, making it an ideal solution for businesses of any size.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b></b> 
-- <b>c++</b>
-- <b>x1 breadboard</b>
+- <b>Raspberry Pi 4 Model 4</b> 
+- <b>Argon 40 case</b>
+- <b>SSD Drive M.2</b>
+- <b>Ethernet cable</b>
+- <b>Powershell & bash</b>
+- <b>USB 3.0 to USB 3.0 adapter</b>
 
-<h2>Environments Used </h2>
+<h2>Environments Used</h2>
 
 - <b>Windows 10</b> 
+- <b>Proxmox/Pimox</b>
+- <b>Ubuntu</b>
+- <b>debian</b>
+- <b>kali linux</b>
 
-<h2>Program walk-through:</h2>
+<h2>Demonstraion:</h2>
 
-<!--
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p> -->
+
+<p>
+Here we have Loop0, the name of the storage device created for the RaspiNas Container, mounted on the raspberry pi 4<br/>
+
+ ![Screenshot 2023-03-15 140544](https://user-images.githubusercontent.com/125524019/225442402-a1232784-61ec-4cec-958e-f58d9c699b82.png)
+ <br/>
+ Me making a file inside proxmox then opening it on my windows machine:<br/>
+ https://user-images.githubusercontent.com/125524019/225492487-2d52eea5-9cb5-411f-9a83-7b177a60262e.mp4
+</p>
+
+
 
 <!--
  ```diff
