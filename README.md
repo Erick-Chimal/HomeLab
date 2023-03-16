@@ -9,7 +9,7 @@ Pimox, Proxmox's predecessor, enables me to host NAS servers and VPN servers on 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Raspberry Pi 4 Model 4</b> 
+- <b>Raspberry Pi 4 Model B</b> 
 - <b>Argon 40 case</b>
 - <b>SSD Drive M.2</b>
 - <b>Ethernet cable</b>
