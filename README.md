@@ -3,7 +3,7 @@
 [YouTube Demonstration](https://youtu.be/SpQRypcATkM)
 
 <h2>Description</h2>
-Pimox, Proxmox's predecessor, enables me to host NAS servers and VPN servers on containers. These containers are incredibly lightweight and capable. additionally, I can deploy functioning virtual machines, all on a single Raspberry Pi 4 Model B. With Pimox, I have access to an impressive range of features and benefits that make it possible to create powerful computing systems with minimal hardware requirements. Furthermore, the intuitive user interface makes it easy to set up and manage these networks, making it an ideal solution for businesses of any size.
+Pimox, the predecessor of Proxmox, enables me to host NAS servers and VPN servers on containers. These containers are incredibly lightweight and capable. Additionally, I can deploy functioning virtual machines on a single Raspberry Pi 4 Model B. With Pimox, I have access to an impressive range of features and benefits that make it possible to create powerful computing systems with minimal hardware requirements. Furthermore, the intuitive user interface makes it easy to set up and manage these networks, making it an ideal solution for businesses of any size.
 <br />
 
 
